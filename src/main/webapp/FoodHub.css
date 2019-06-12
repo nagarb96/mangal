@@ -1,0 +1,144 @@
+        body{
+            height: 1000px;
+            
+        }
+        .navbar{
+            text-decoration-color: white;
+            font-family: cursive;
+        }
+        .navbar{
+            border-radius: 0px;
+        }
+        #asd{
+            padding: 0px;
+            margin-top: -20px;
+        }
+        .carousel-inner{
+            height: auto;
+        }
+        .thumbnail{
+            border:1px solid white;
+            text-align: center;
+            text-decoration: none;
+        }
+        
+        .zoom {
+    
+    transition: transform .2s;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+.zoom:hover {
+    -ms-transform: scale(1.5);
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.5);}
+        
+        #asd12{
+            padding-top: 30px;
+            padding-bottom: 100px;
+            background-image: url(Image/paper.jpg);
+        }
+        
+        .caption{
+            margin: 10px;
+        }
+        #asd3:hover{
+            -ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.5);
+        }
+        #asd4:hover{
+            -ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.5);
+        }
+        #asd5:hover{
+            -ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.5);
+        }
+        #asd6:hover{
+            -ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.5);
+        }
+        #asd7:hover{
+            -ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.5);
+        }
+        #asd8:hover{
+            -ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.5);
+        }
+        #asd9:hover{
+            -ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.5);
+        }
+        #asd10:hover{
+            -ms-transform: scale(1.5);
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.5);
+        }
+        #asd11:hover{
+            -ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.5);
+        }
+        #footer{
+            background-color: black;
+            color: gray;
+            padding-top: 25px;
+            padding-bottom: 50px;
+            
+        }
+        #footer a{
+            color: white; 
+            font-family: cursive; 
+            text-decoration: none;
+        }
+        #footer li{
+            list-style-type: none;
+            font-family: cursive;
+        }
+
+        #asd15 li{
+            float: left;
+            padding: 10px;
+        }
+        #asd15 a{
+            color: white;
+            text-decoration: none;
+        }
+        #asd16 td{
+            color: white;
+        }
+        #asd16{
+            font-family: cursive;
+        }
+        #asd17{
+            font-family: cursive;
+            font-size: 20px;
+            color: white;
+            text-decoration: none;
+            text-align: center;
+            }
+#footer li:hover{
+            -ms-transform: scale(1.1); 
+    -webkit-transform: scale(1.1); 
+    transform: scale(1.1);
+        }
+#ff1{
+    width: 50%;
+    height: auto;
+}        
+#text{
+    white-space: nowrap; 
+    width: 180px; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
